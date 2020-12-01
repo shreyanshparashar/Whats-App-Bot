@@ -1,4 +1,4 @@
-# wa-automation
+# WhatsApp-Bot
 
 Whatsapp automation weekend project
 
